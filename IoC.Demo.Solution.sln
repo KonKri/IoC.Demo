@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31808.319
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IoC.Demo.Api", "IoC.Demo.Api\IoC.Demo.Api.csproj", "{E8311F0A-4F0F-46B4-9807-2CA7ADB046FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IoC.Demo.StringManipulation", "IoC.Demo.StringManipulation\IoC.Demo.StringManipulation.csproj", "{9305465F-CCD1-4D2B-A390-599390CF6BE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8311F0A-4F0F-46B4-9807-2CA7ADB046FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8311F0A-4F0F-46B4-9807-2CA7ADB046FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8311F0A-4F0F-46B4-9807-2CA7ADB046FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8311F0A-4F0F-46B4-9807-2CA7ADB046FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9305465F-CCD1-4D2B-A390-599390CF6BE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9305465F-CCD1-4D2B-A390-599390CF6BE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9305465F-CCD1-4D2B-A390-599390CF6BE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9305465F-CCD1-4D2B-A390-599390CF6BE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F5E8DC6-FE0E-4F06-B20D-8DF56045442F}
+	EndGlobalSection
+EndGlobal
